@@ -1,2 +1,2 @@
-n=int(input("enter number:"))
-print(n)
+a=int(input("enter number:"))
+print(a)
